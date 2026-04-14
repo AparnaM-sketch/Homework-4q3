@@ -1,6 +1,6 @@
 # Homework-4q3
 
-# Q3: Character-Level RNN Language Model
+# Q3: Scaled Dot‑Product Attention 
 
 👩‍🎓 Student Information
 
